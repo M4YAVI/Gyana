@@ -1,0 +1,5 @@
+[[One Hundred Years of Solitude]]
+[[Love in the Time of Cholera]]
+[[No One Writes to the Colonel]]
+[[Chronicle of a Death Foretold]]
+[[The Autumn of the Patriarch]]

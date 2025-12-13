@@ -2,15 +2,67 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "authors/index.md"
+    },
+    {
+      "basename": "Ray Bradbury",
+      "path": "zz/Ray Bradbury.md"
+    },
+    {
+      "basename": "The Fog Horn",
+      "path": "zz/The Fog Horn.md"
+    },
+    {
+      "basename": "There Will Come Soft Rains",
+      "path": "zz/There Will Come Soft Rains.md"
+    },
+    {
+      "basename": "The Veldt",
+      "path": "zz/The Veldt.md"
+    },
+    {
+      "basename": "oscar wilde",
+      "path": "zz/oscar wilde.md"
+    },
+    {
+      "basename": "The Picture of Dorian Gray",
+      "path": "zz/The Picture of Dorian Gray.md"
+    },
+    {
+      "basename": "The Importance of Being Earnest",
+      "path": "zz/The Importance of Being Earnest.md"
+    },
+    {
+      "basename": "De Profundis",
+      "path": "zz/De Profundis.md"
+    },
+    {
+      "basename": "Life story of oscar wilde",
+      "path": "zz/Life story of oscar wilde.md"
+    },
+    {
+      "basename": "Matthew Gregory Lewis",
+      "path": "zz/Matthew Gregory Lewis.md"
+    },
+    {
+      "basename": "The monk",
+      "path": "zz/The monk.md"
+    },
+    {
+      "basename": "García Márquez",
+      "path": "zz/García Márquez.md"
+    },
+    {
+      "basename": "One Hundred Years of Solitude",
+      "path": "zz/One Hundred Years of Solitude.md"
+    },
+    {
+      "basename": "index",
       "path": "movies/index.md"
     },
     {
       "basename": "There will be blood",
       "path": "zz/There will be blood.md"
-    },
-    {
-      "basename": "index",
-      "path": "authors/index.md"
     },
     {
       "basename": "index",
@@ -147,58 +199,6 @@
     {
       "basename": "The Metamorphosis",
       "path": "The Metamorphosis.md"
-    },
-    {
-      "basename": "Animalinside",
-      "path": "zz/Animalinside.md"
-    },
-    {
-      "basename": "László Krasznahorkai",
-      "path": "zz/László Krasznahorkai.md"
-    },
-    {
-      "basename": "sdf",
-      "path": "zz/sdf.md"
-    },
-    {
-      "basename": "reverse pain",
-      "path": "zz/reverse pain.md"
-    },
-    {
-      "basename": "ideas",
-      "path": "my creation/ideas.md"
-    },
-    {
-      "basename": "Proverbs",
-      "path": "zz/Proverbs.md"
-    },
-    {
-      "basename": "index",
-      "path": "knowledge/index.md"
-    },
-    {
-      "basename": "Philanthropy",
-      "path": "zz/Philanthropy.md"
-    },
-    {
-      "basename": "must know",
-      "path": "my creation/myworks/must know.md"
-    },
-    {
-      "basename": "Religion",
-      "path": "zz/Religion.md"
-    },
-    {
-      "basename": "The Irony of Children's Day",
-      "path": "zz/The Irony of Children's Day.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "my creation/myworks/Untitled.md"
-    },
-    {
-      "basename": "goated works by me",
-      "path": "my creation/myworks/goated works by me.md"
     }
   ],
   "omittedPaths": [],
