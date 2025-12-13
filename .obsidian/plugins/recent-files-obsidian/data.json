@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "No Country for Old Men",
-      "path": "No Country for Old Men.md"
-    },
-    {
       "basename": "Cormac McCarthy",
       "path": "zz/Cormac McCarthy.md"
     },
     {
+      "basename": "No Country for Old Men",
+      "path": "zz/No Country for Old Men.md"
+    },
+    {
+      "basename": "index",
+      "path": "authors/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "best lines/index.md"
+    },
+    {
+      "basename": "wishful",
+      "path": "zz/wishful.md"
+    },
+    {
       "basename": "All the Pretty Horses",
-      "path": "All the Pretty Horses.md"
+      "path": "zz/All the Pretty Horses.md"
     },
     {
       "basename": "Cities of the Plain",
@@ -57,24 +69,12 @@
       "path": "zz/Blood Meridian.md"
     },
     {
-      "basename": "index",
-      "path": "authors/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "best lines/index.md"
-    },
-    {
       "basename": "powerful words",
       "path": "zz/powerful words.md"
     },
     {
       "basename": "vulgar",
       "path": "zz/vulgar.md"
-    },
-    {
-      "basename": "wishful",
-      "path": "zz/wishful.md"
     },
     {
       "basename": "conversation",

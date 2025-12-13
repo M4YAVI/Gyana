@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "No Country for Old Men.md",
+                "file": "zz/Cormac McCarthy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No Country for Old Men"
+              "title": "Cormac McCarthy"
             }
           }
         ]
@@ -193,9 +193,12 @@
   },
   "active": "9610bf02cef70b00",
   "lastOpenFiles": [
+    "zz/No Country for Old Men.md",
     "zz/Cormac McCarthy.md",
-    "No Country for Old Men.md",
-    "All the Pretty Horses.md",
+    "authors/index.md",
+    "best lines/index.md",
+    "zz/wishful.md",
+    "zz/All the Pretty Horses.md",
     "zz/Cities of the Plain.md",
     "zz/Suttree.md",
     "zz/Stella Maris.md",
@@ -207,11 +210,8 @@
     "zz/mccarthy life story.md",
     "zz/The Road.md",
     "zz/Blood Meridian.md",
-    "authors/index.md",
-    "best lines/index.md",
     "zz/powerful words.md",
     "zz/vulgar.md",
-    "zz/wishful.md",
     "zz/conversation.md",
     "zz/on art.md",
     "best lines",
