@@ -5,200 +5,200 @@
       "path": "authors/index.md"
     },
     {
-      "basename": "Ray Bradbury",
-      "path": "zz/Ray Bradbury.md"
+      "basename": "Herman Melville",
+      "path": "zzz/zz/Herman Melville.md"
     },
     {
-      "basename": "The Fog Horn",
-      "path": "zz/The Fog Horn.md"
+      "basename": "Life of herman melville",
+      "path": "zzz/Life of herman melville.md"
     },
     {
-      "basename": "There Will Come Soft Rains",
-      "path": "zz/There Will Come Soft Rains.md"
+      "basename": "The Piazza Tales",
+      "path": "zzz/The Piazza Tales.md"
     },
     {
-      "basename": "The Veldt",
-      "path": "zz/The Veldt.md"
+      "basename": "Benito Cereno",
+      "path": "zzz/Benito Cereno.md"
     },
     {
-      "basename": "oscar wilde",
-      "path": "zz/oscar wilde.md"
+      "basename": "Clarel",
+      "path": "zzz/Clarel.md"
     },
     {
-      "basename": "The Picture of Dorian Gray",
-      "path": "zz/The Picture of Dorian Gray.md"
+      "basename": "Israel Potter",
+      "path": "zzz/Israel Potter.md"
     },
     {
-      "basename": "The Importance of Being Earnest",
-      "path": "zz/The Importance of Being Earnest.md"
+      "basename": "Redburn",
+      "path": "zzz/Redburn.md"
     },
     {
-      "basename": "De Profundis",
-      "path": "zz/De Profundis.md"
+      "basename": "Billy Budd, Sailor",
+      "path": "zzz/Billy Budd, Sailor.md"
     },
     {
-      "basename": "Life story of oscar wilde",
-      "path": "zz/Life story of oscar wilde.md"
+      "basename": "Bartleby, the Scrivener",
+      "path": "zzz/Bartleby, the Scrivener.md"
     },
     {
-      "basename": "Matthew Gregory Lewis",
-      "path": "zz/Matthew Gregory Lewis.md"
+      "basename": "White-Jacket",
+      "path": "zzz/White-Jacket.md"
     },
     {
-      "basename": "The monk",
-      "path": "zz/The monk.md"
+      "basename": "Pierre",
+      "path": "zzz/Pierre.md"
     },
     {
-      "basename": "García Márquez",
-      "path": "zz/García Márquez.md"
+      "basename": "The Confidence-Man",
+      "path": "zzz/zz/The Confidence-Man.md"
     },
     {
-      "basename": "One Hundred Years of Solitude",
-      "path": "zz/One Hundred Years of Solitude.md"
+      "basename": "Omoo",
+      "path": "zzz/zz/Omoo.md"
+    },
+    {
+      "basename": "Typee",
+      "path": "zzz/zz/Typee.md"
+    },
+    {
+      "basename": "Mardi",
+      "path": "zzz/zz/Mardi.md"
+    },
+    {
+      "basename": "index",
+      "path": "daily life/images/index.md"
+    },
+    {
+      "basename": "image gen",
+      "path": "zzz/zz/image gen.md"
+    },
+    {
+      "basename": "composition",
+      "path": "zzz/zz/composition.md"
     },
     {
       "basename": "index",
       "path": "movies/index.md"
     },
     {
-      "basename": "There will be blood",
-      "path": "zz/There will be blood.md"
+      "basename": "When You Finish Saving The World",
+      "path": "zzz/zz/When You Finish Saving The World.md"
+    },
+    {
+      "basename": "All Summer in a Day",
+      "path": "zzz/zz/All Summer in a Day.md"
+    },
+    {
+      "basename": "A Sound of Thunder",
+      "path": "zzz/zz/A Sound of Thunder.md"
+    },
+    {
+      "basename": "Ray Bradbury",
+      "path": "zzz/zz/Ray Bradbury.md"
+    },
+    {
+      "basename": "Something Wicked This Way Comes",
+      "path": "zzz/zz/Something Wicked This Way Comes.md"
+    },
+    {
+      "basename": "carl jung",
+      "path": "zzz/zz/carl jung.md"
     },
     {
       "basename": "index",
-      "path": "best lines/index.md"
+      "path": "wisdom/index.md"
+    },
+    {
+      "basename": "hope is dead",
+      "path": "zzz/zz/hope is dead.md"
+    },
+    {
+      "basename": "modren man in search of a soul",
+      "path": "zzz/zz/modren man in search of a soul.md"
+    },
+    {
+      "basename": "The Fog Horn",
+      "path": "zzz/zz/The Fog Horn.md"
+    },
+    {
+      "basename": "There Will Come Soft Rains",
+      "path": "zzz/zz/There Will Come Soft Rains.md"
+    },
+    {
+      "basename": "The Veldt",
+      "path": "zzz/zz/The Veldt.md"
+    },
+    {
+      "basename": "oscar wilde",
+      "path": "zzz/zz/oscar wilde.md"
+    },
+    {
+      "basename": "The Picture of Dorian Gray",
+      "path": "zzz/zz/The Picture of Dorian Gray.md"
+    },
+    {
+      "basename": "The Importance of Being Earnest",
+      "path": "zzz/zz/The Importance of Being Earnest.md"
+    },
+    {
+      "basename": "De Profundis",
+      "path": "zzz/zz/De Profundis.md"
+    },
+    {
+      "basename": "Life story of oscar wilde",
+      "path": "zzz/zz/Life story of oscar wilde.md"
+    },
+    {
+      "basename": "Matthew Gregory Lewis",
+      "path": "zzz/zz/Matthew Gregory Lewis.md"
+    },
+    {
+      "basename": "The monk",
+      "path": "zzz/zz/The monk.md"
+    },
+    {
+      "basename": "García Márquez",
+      "path": "zzz/zz/García Márquez.md"
+    },
+    {
+      "basename": "One Hundred Years of Solitude",
+      "path": "zzz/zz/One Hundred Years of Solitude.md"
+    },
+    {
+      "basename": "There will be blood",
+      "path": "zzz/zz/There will be blood.md"
+    },
+    {
+      "basename": "index",
+      "path": "daily life/best lines/index.md"
     },
     {
       "basename": "No Country for Old Men",
-      "path": "zz/No Country for Old Men.md"
+      "path": "zzz/zz/No Country for Old Men.md"
     },
     {
       "basename": "Cormac McCarthy",
-      "path": "zz/Cormac McCarthy.md"
+      "path": "zzz/zz/Cormac McCarthy.md"
     },
     {
       "basename": "wishful",
-      "path": "zz/wishful.md"
+      "path": "zzz/zz/wishful.md"
     },
     {
       "basename": "All the Pretty Horses",
-      "path": "zz/All the Pretty Horses.md"
+      "path": "zzz/zz/All the Pretty Horses.md"
     },
     {
       "basename": "Cities of the Plain",
-      "path": "zz/Cities of the Plain.md"
+      "path": "zzz/zz/Cities of the Plain.md"
     },
     {
       "basename": "Suttree",
-      "path": "zz/Suttree.md"
+      "path": "zzz/zz/Suttree.md"
     },
     {
       "basename": "Stella Maris",
-      "path": "zz/Stella Maris.md"
-    },
-    {
-      "basename": "The Passenger",
-      "path": "zz/The Passenger.md"
-    },
-    {
-      "basename": "The Orchard Keeper",
-      "path": "zz/The Orchard Keeper.md"
-    },
-    {
-      "basename": "The Crossing",
-      "path": "zz/The Crossing.md"
-    },
-    {
-      "basename": "Outer Dark",
-      "path": "zz/Outer Dark.md"
-    },
-    {
-      "basename": "Child of God",
-      "path": "zz/Child of God.md"
-    },
-    {
-      "basename": "mccarthy life story",
-      "path": "zz/mccarthy life story.md"
-    },
-    {
-      "basename": "The Road",
-      "path": "zz/The Road.md"
-    },
-    {
-      "basename": "Blood Meridian",
-      "path": "zz/Blood Meridian.md"
-    },
-    {
-      "basename": "powerful words",
-      "path": "zz/powerful words.md"
-    },
-    {
-      "basename": "vulgar",
-      "path": "zz/vulgar.md"
-    },
-    {
-      "basename": "conversation",
-      "path": "zz/conversation.md"
-    },
-    {
-      "basename": "on art",
-      "path": "zz/on art.md"
-    },
-    {
-      "basename": "Fyodor Dostoevsky",
-      "path": "zz/Fyodor Dostoevsky.md"
-    },
-    {
-      "basename": "Mary Shelley",
-      "path": "zz/Mary Shelley.md"
-    },
-    {
-      "basename": "The Last Man",
-      "path": "zz/The Last Man.md"
-    },
-    {
-      "basename": "kafka",
-      "path": "zz/kafka.md"
-    },
-    {
-      "basename": "5 cm per sec",
-      "path": "zz/z/5 cm per sec.md"
-    },
-    {
-      "basename": "5cm lines",
-      "path": "5cm lines.md"
-    },
-    {
-      "basename": "5cm",
-      "path": "5cm.md"
-    },
-    {
-      "basename": "index",
-      "path": "art/novels/index.md"
-    },
-    {
-      "basename": "The Castle",
-      "path": "The Castle.md"
-    },
-    {
-      "basename": "Franz Kafka",
-      "path": "Franz Kafka.md"
-    },
-    {
-      "basename": "Western Literature",
-      "path": "zz/z/Western Literature.md"
-    },
-    {
-      "basename": "index",
-      "path": "art/authors/index.md"
-    },
-    {
-      "basename": "The Trail",
-      "path": "The Trail.md"
-    },
-    {
-      "basename": "The Metamorphosis",
-      "path": "The Metamorphosis.md"
+      "path": "zzz/zz/Stella Maris.md"
     }
   ],
   "omittedPaths": [],

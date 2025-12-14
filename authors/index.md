@@ -1,14 +1,34 @@
+
+
+
+
+
+
+
+
+
+
+
+
+# European authors ( also russia)
 [[kafka]]
-[[Mary Shelley]]
-
 [[Fyodor Dostoevsky]]
-[[Cormac McCarthy]]
-[[García Márquez]]
-
-
-
-[[J.D. Salinger]]
+[[Mary Shelley]]
 [[oscar wilde]]
-[[Ray Bradbury]]
-
+[[Gorge orwell]]
+[[García Márquez]]
 [[Matthew Gregory Lewis]]
+[[carl jung]]
+[[Freud]]
+
+# American authors
+[[Cormac McCarthy]]
+[[Herman Melville]] - (moby dick)
+[[J.D. Salinger]]
+[[Ray Bradbury]]
+[[Edgar Allan Poe]]
+[[Mark Twain]]
+[[Nathaniel Hawthorne]]
+[[F. Scott Fitzgerald]]
+
+# Japanese authors
