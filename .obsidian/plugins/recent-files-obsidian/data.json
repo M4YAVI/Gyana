@@ -1,6 +1,146 @@
 {
   "recentFiles": [
     {
+      "basename": "Space",
+      "path": "zzz/Space.md"
+    },
+    {
+      "basename": "Physics",
+      "path": "zzz/Physics.md"
+    },
+    {
+      "basename": "waves",
+      "path": "zzz/waves.md"
+    },
+    {
+      "basename": "Classical Mechanics",
+      "path": "zzz/Classical Mechanics.md"
+    },
+    {
+      "basename": "wavelets",
+      "path": "zzz/wavelets.md"
+    },
+    {
+      "basename": "Fourier analysis",
+      "path": "zzz/Fourier analysis.md"
+    },
+    {
+      "basename": "Harmonic oscillators",
+      "path": "zzz/Harmonic oscillators.md"
+    },
+    {
+      "basename": "Electricity",
+      "path": "zzz/Electricity.md"
+    },
+    {
+      "basename": "work power energy",
+      "path": "zzz/work power energy.md"
+    },
+    {
+      "basename": "Newton laws of motion",
+      "path": "zzz/Newton laws of motion.md"
+    },
+    {
+      "basename": "Conservation of Momentum",
+      "path": "zzz/Conservation of Momentum.md"
+    },
+    {
+      "basename": "momentum",
+      "path": "zzz/momentum.md"
+    },
+    {
+      "basename": "2nd law",
+      "path": "zzz/2nd law.md"
+    },
+    {
+      "basename": "action-reaction 3rd law",
+      "path": "zzz/action-reaction 3rd law.md"
+    },
+    {
+      "basename": "inertia or newton first law",
+      "path": "zzz/inertia or newton first law.md"
+    },
+    {
+      "basename": "Forces and motion (intuition-level)",
+      "path": "zzz/Forces and motion (intuition-level).md"
+    },
+    {
+      "basename": "reference frames",
+      "path": "zzz/reference frames.md"
+    },
+    {
+      "basename": "index",
+      "path": "education/index.md"
+    },
+    {
+      "basename": "Quntum computing",
+      "path": "zzz/Quntum computing.md"
+    },
+    {
+      "basename": "physics in quntum",
+      "path": "zzz/physics in quntum.md"
+    },
+    {
+      "basename": "Heads up in quntum",
+      "path": "zzz/Heads up in quntum.md"
+    },
+    {
+      "basename": "entanglement",
+      "path": "zzz/entanglement.md"
+    },
+    {
+      "basename": "Computer Science Prerequisites",
+      "path": "zzz/Computer Science Prerequisites.md"
+    },
+    {
+      "basename": "Hardware & Error Correction",
+      "path": "zzz/Hardware & Error Correction.md"
+    },
+    {
+      "basename": "Quantum Protocols & Algorithms",
+      "path": "zzz/Quantum Protocols & Algorithms.md"
+    },
+    {
+      "basename": "The Quantum Circuit Model",
+      "path": "zzz/The Quantum Circuit Model.md"
+    },
+    {
+      "basename": "Quantum Mechanics Principles for Computing",
+      "path": "zzz/Quantum Mechanics Principles for Computing.md"
+    },
+    {
+      "basename": "Core Phenomena",
+      "path": "zzz/Core Phenomena.md"
+    },
+    {
+      "basename": "The Postulates of Quantum Mechanics",
+      "path": "zzz/The Postulates of Quantum Mechanics.md"
+    },
+    {
+      "basename": "Computational Complexity",
+      "path": "zzz/Computational Complexity.md"
+    },
+    {
+      "basename": "Classical Bits & Logic",
+      "path": "zzz/Classical Bits & Logic.md"
+    },
+    {
+      "basename": "The Mathematical Foundation",
+      "path": "zzz/The Mathematical Foundation.md"
+    },
+    {
+      "basename": "Probability & Statistics",
+      "path": "zzz/Probability & Statistics.md"
+    },
+    {
+      "basename": "Linear Algebra",
+      "path": "zzz/Linear Algebra.md"
+    },
+    {
+      "basename": "Complex Numbers",
+      "path": "zzz/Complex Numbers.md"
+    },
+    {
       "basename": "My lines",
       "path": "zzz/My lines.md"
     },
@@ -59,146 +199,6 @@
     {
       "basename": "s-less",
       "path": "zzz/s-less.md"
-    },
-    {
-      "basename": "world",
-      "path": "zzz/world.md"
-    },
-    {
-      "basename": "india vs china",
-      "path": "zzz/india vs china.md"
-    },
-    {
-      "basename": "index",
-      "path": "knowledge/index.md"
-    },
-    {
-      "basename": "debate",
-      "path": "zzz/debate.md"
-    },
-    {
-      "basename": "composition",
-      "path": "zzz/zz/composition.md"
-    },
-    {
-      "basename": "index",
-      "path": "daily life/images/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "daily life/best lines/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "authors/index.md"
-    },
-    {
-      "basename": "William Shakespeare",
-      "path": "zzz/William Shakespeare.md"
-    },
-    {
-      "basename": "Jane Austen",
-      "path": "zzz/Jane Austen.md"
-    },
-    {
-      "basename": "Charles Dickens",
-      "path": "zzz/Charles Dickens.md"
-    },
-    {
-      "basename": "Virginia Woolf",
-      "path": "zzz/Virginia Woolf.md"
-    },
-    {
-      "basename": "Robert Walser",
-      "path": "zzz/Robert Walser.md"
-    },
-    {
-      "basename": "Toni Morrison",
-      "path": "zzz/Toni Morrison.md"
-    },
-    {
-      "basename": "Beloved",
-      "path": "zzz/Beloved.md"
-    },
-    {
-      "basename": "Doppo Kunikida",
-      "path": "zzz/Doppo Kunikida.md"
-    },
-    {
-      "basename": "Musashino",
-      "path": "zzz/Musashino.md"
-    },
-    {
-      "basename": "Aitei Tsushin",
-      "path": "zzz/Aitei Tsushin.md"
-    },
-    {
-      "basename": "Chūya Nakahara",
-      "path": "zzz/Chūya Nakahara.md"
-    },
-    {
-      "basename": "Atsushi Nakajima",
-      "path": "zzz/Atsushi Nakajima.md"
-    },
-    {
-      "basename": "The Disciple",
-      "path": "zzz/The Disciple.md"
-    },
-    {
-      "basename": "The Master",
-      "path": "zzz/The Master.md"
-    },
-    {
-      "basename": "Meijin-den",
-      "path": "zzz/Meijin-den.md"
-    },
-    {
-      "basename": "The Old Fisherman",
-      "path": "zzz/The Old Fisherman.md"
-    },
-    {
-      "basename": "Li Ling",
-      "path": "zzz/Li Ling.md"
-    },
-    {
-      "basename": "Sangetsuki",
-      "path": "zzz/Sangetsuki.md"
-    },
-    {
-      "basename": "The Moon over the Mountain",
-      "path": "zzz/The Moon over the Mountain.md"
-    },
-    {
-      "basename": "Yukio Mishima",
-      "path": "zzz/Yukio Mishima.md"
-    },
-    {
-      "basename": "Patriotism",
-      "path": "zzz/Patriotism.md"
-    },
-    {
-      "basename": "Confessions of a Mask",
-      "path": "zzz/Confessions of a Mask.md"
-    },
-    {
-      "basename": "Boris Pasternak",
-      "path": "zzz/Boris Pasternak.md"
-    },
-    {
-      "basename": "The Year 1905",
-      "path": "zzz/The Year 1905.md"
-    },
-    {
-      "basename": "Lieutenant Schmidt",
-      "path": "zzz/Lieutenant Schmidt.md"
-    },
-    {
-      "basename": "My Sister—Life",
-      "path": "zzz/My Sister—Life.md"
-    },
-    {
-      "basename": "Doctor Zhivago",
-      "path": "zzz/Doctor Zhivago.md"
     }
   ],
   "omittedPaths": [],

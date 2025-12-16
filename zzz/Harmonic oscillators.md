@@ -1,0 +1,1 @@
+A harmonic oscillator is basically a system that, when displaced from its equilibrium position, experiences a restoring force proportional to that displacement. Think of it like a spring. Pull it, it pulls back. Push it, it pushes back. And it'll just keep oscillating back and forth around that sweet spot, the equilibrium.

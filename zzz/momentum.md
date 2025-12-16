@@ -1,0 +1,3 @@
+Momentum is basically a measure of how much motion an object has. It’s not just speed; it's speed *and* mass combined. Think of it like this: a bowling ball moving slowly has more momentum than a ping pong ball moving at the same speed. It’s harder to stop the bowling ball.
+
+It usually refers to the force or energy behind something that's developing or continuing. Like a team gaining "momentum" after scoring a few goals, or a project building "momentum" as it moves forward. It’s that sense of unstoppable progress or growing influence.|

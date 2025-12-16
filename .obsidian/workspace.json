@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzz/My lines.md",
+                "file": "zzz/Computer Science Prerequisites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My lines"
+              "title": "Computer Science Prerequisites"
+            }
+          },
+          {
+            "id": "1fc7dc00be0462ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzz/Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Space"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,34 +208,35 @@
   },
   "active": "2b95397c74dcc08d",
   "lastOpenFiles": [
-    "zzz/2x.md",
-    "zzz/My lines.md",
-    "daily life/phrases.md",
-    "zzz/real friend.md",
-    "zzz/Text prompts.md",
-    "ai/index.md",
-    "zzz/drawn art.md",
-    "zzz/artstyles.md",
-    "zzz/Image prompts.md",
-    "zzz/Bungo stray dogs.md",
-    "animes/index.md",
-    "zzz/teacherly.md",
-    "zzz/anime art.md",
-    "zzz/DressF.md",
-    "zzz/s-less.md",
-    "zzz/world.md",
-    "zzz/india vs china.md",
-    "knowledge/index.md",
+    "zzz/Physics.md",
+    "zzz/Space.md",
+    "zzz/waves.md",
+    "zzz/Classical Mechanics.md",
+    "zzz/wavelets.md",
+    "zzz/Fourier analysis.md",
+    "zzz/Harmonic oscillators.md",
+    "zzz/Electricity.md",
+    "zzz/work power energy.md",
+    "zzz/Newton laws of motion.md",
+    "zzz/Conservation of Momentum.md",
+    "zzz/momentum.md",
+    "zzz/2nd law.md",
+    "zzz/action-reaction 3rd law.md",
+    "zzz/inertia or newton first law.md",
+    "zzz/Forces and motion (intuition-level).md",
+    "zzz/reference frames.md",
+    "education/index.md",
+    "zzz/Quntum computing.md",
+    "zzz/physics in quntum.md",
+    "zzz/Heads up in quntum.md",
+    "zzz/entanglement.md",
+    "zzz/Computer Science Prerequisites.md",
+    "zzz/Hardware & Error Correction.md",
+    "zzz/Quantum Protocols & Algorithms.md",
+    "zzz/The Quantum Circuit Model.md",
+    "education",
     "knowledge",
-    "zzz/debate.md",
-    "zzz/zz/composition.md",
     "ai",
-    "daily life/images/index.md",
-    "daily life/best lines/index.md",
-    "authors/index.md",
-    "zzz/William Shakespeare.md",
-    "zzz/Jane Austen.md",
-    "zzz/Charles Dickens.md",
     "zzz",
     "daily life/images",
     "daily life",
@@ -228,7 +244,6 @@
     "daily life/best lines",
     "games",
     "animes",
-    "movies",
     "z/Pasted image 20251022235507.png",
     "z/Pasted image 20251006195854.png",
     "z/Pasted image 20251006195834.png",

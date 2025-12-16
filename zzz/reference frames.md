@@ -1,0 +1,10 @@
+so reference frames are basically the lens through which you measure everything in physics—position, velocity, time, whatever. You pick a frame, and all your observations are relative to that. Classic example: you're on a train moving at 60 mph, you toss a ball straight up. From your frame, it goes up and down. From someone standing outside, it's tracing a parabola. Same event, different frames, different descriptions. Neither is "wrong"—they're just relative.
+
+Now here's where it gets interesting for AI and quantum computing.
+
+For AI, this matters because perspective shapes everything. When you're training a model, the reference frame is essentially your loss function and training data. The model doesn't learn some absolute truth; it learns patterns relative to what you showed it. Change the training distribution—different frame—and you get totally different behaviors. It's why transfer learning works but also why models can be hilariously wrong when deployed outside their training frame.
+
+
+**For quantum computing:** reference frames are even more fundamental because quantum mechanics is _obsessively_ about observers and measurement. In quantum, the "state" of a system isn't absolute—it depends on what basis you're measuring in. A qubit can be |0⟩ or |1⟩ in the computational basis, but if you rotate your reference frame (literally, change your measurement basis), that same qubit might be in a superposition or a different definite state. The math is identical to rotating coordinate systems in classical physics, except now your "coordinates" are probability amplitudes. Entanglement? That's when two qubits share a state that can't be fully described from either one's local frame alone—you need the joint frame. Quantum gates are just rotations or transformations in this space, much like how forces change velocity in classical frames.
+
+reference frames teach you that absolute answers are mostly nonsense.

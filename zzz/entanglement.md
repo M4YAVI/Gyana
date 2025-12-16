@@ -1,0 +1,4 @@
+ When qubits get entangled, measuring one instantly affects the other, regardless of distance. Einstein called it "spooky action at a distance" because he thought it was garbage, but turns out he was wrong. We use this to create correlations between qubits that classical systems literally cannot replicate.
+
+
+The brutal truth though? Most of what you hear about quantum computing is overhyped. We're nowhere near replacing classical computers. Current quantum machines are sketchy - they need to be cooled to near absolute zero, they're riddled with errors, and they can only maintain quantum states for microseconds. It's called decoherence, and it's a nightmare.
