@@ -1,4 +1,6 @@
 # European authors ( also russia)
+[[William Shakespeare]]
+
 [[kafka]]
 [[Mary Shelley]]
 [[oscar wilde]]
@@ -7,6 +9,29 @@
 [[Matthew Gregory Lewis]]
 [[carl jung]]
 [[Freud]]
+
+[[Robert Walser]]
+[[Virginia Woolf]]
+[[Charles Dickens]]
+[[Jane Austen]]
+
+[[Federico García Lorca]]
+[[Miguel de Cervantes]]
+[[Henrik Ibsen]]
+[[Knut Hamsun]]
+
+[[José Saramago]]
+[[Fernando Pessoa]]
+
+# French
+[[Victor Hugo]]
+[[Albert Camus]]
+[[Marcel Proust]]
+[[Gustave Flaubert]]
+
+# German
+
+
 
 ## Russian
 [[Fyodor Dostoevsky]]
@@ -41,6 +66,7 @@
 [[Raymond Carver]]
 [[Ursula K. Le Guin]]
 [[Toni Morrison]]
+
 
 # Japanese authors
 [[Atsushi Nakajima]]  

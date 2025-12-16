@@ -1,0 +1,4 @@
+[[debate]]
+[[teacherly]]
+
+[[real friend]]

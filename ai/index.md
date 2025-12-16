@@ -1,0 +1,2 @@
+[[Image prompts]]
+[[Text prompts]]

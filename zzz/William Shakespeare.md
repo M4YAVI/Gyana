@@ -1,0 +1,6 @@
+[[Hamlet]]
+[[Macbeth]]
+[[Romeo and Juliet]]
+[[King Lear]]
+[[A Midsummer Night's Dream]]
+[[Othello]]
