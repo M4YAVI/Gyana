@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indie digital art.md",
+                "file": "zzz/drawn art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indie digital art"
+              "title": "drawn art"
             }
           }
         ],
@@ -208,13 +208,14 @@
   },
   "active": "1fc7dc00be0462ca",
   "lastOpenFiles": [
-    "zzz/anime art.md",
-    "indie digital art.md",
-    "sonny boy art style.md",
     "zzz/artstyles.md",
-    "zzz/digital art.md",
-    "zzz/Pasted image 20251217092929.png",
     "zzz/drawn art.md",
+    "zzz/ChatGPT Image Dec 17, 2025, 08_56_36 AM.png",
+    "zzz/digital art.md",
+    "zzz/anime art.md",
+    "zzz/indie digital art.md",
+    "zzz/sonny boy art style.md",
+    "zzz/Pasted image 20251217092929.png",
     "zzz/Image prompts.md",
     "animes/index.md",
     "zzz/sound smart.md",
@@ -234,7 +235,6 @@
     "zzz/Mesopotamian Calendar.md",
     "zzz/History.md",
     "knowledge/index.md",
-    "zzz/Physics.md",
     "education",
     "knowledge",
     "ai",
@@ -252,7 +252,6 @@
     "z/Pasted image 20251006195803.png",
     "z/Pasted image 20251006195727.png",
     "z/Pasted image 20251006195705.png",
-    "z/Pasted image 20251006195629.png",
-    "z/Pasted image 20251006195604.png"
+    "z/Pasted image 20251006195629.png"
   ]
 }
