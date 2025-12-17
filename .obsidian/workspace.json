@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dress.md",
+                "file": "zzz/indie digital art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dress"
+              "title": "indie digital art"
             }
           }
         ],
@@ -208,18 +208,21 @@
   },
   "active": "1fc7dc00be0462ca",
   "lastOpenFiles": [
-    "zzz/DressF.md",
-    "dress.md",
-    "characteris.md",
-    "zzz/Image prompts.md",
+    "zzz/anime art.md",
     "zzz/artstyles.md",
-    "Female.md",
-    "expressions.md",
-    "hair.md",
+    "zzz/Painting art.md",
+    "zzz/Pasted image 20251217104459.png",
+    "zzz/Image prompts.md",
+    "zsds/characteris.md",
+    "zsds/dress.md",
+    "zsds",
+    "zzz/DressF.md",
+    "zsds/Female.md",
+    "zsds/expressions.md",
+    "zsds/hair.md",
     "zzz/drawn art.md",
     "zzz/ChatGPT Image Dec 17, 2025, 08_56_36 AM.png",
     "zzz/digital art.md",
-    "zzz/anime art.md",
     "zzz/indie digital art.md",
     "zzz/sonny boy art style.md",
     "zzz/Pasted image 20251217092929.png",
@@ -234,8 +237,6 @@
     "zzz/Best Time to Buy and Sell Stock.md",
     "zzz/Hashing heads up.md",
     "zzz/DSA.md",
-    "education/index.md",
-    "zzz/for education prompts.md",
     "education",
     "knowledge",
     "ai",
@@ -245,14 +246,12 @@
     "wisdom",
     "daily life/best lines",
     "games",
-    "animes",
     "z/Pasted image 20251022235507.png",
     "z/Pasted image 20251006195854.png",
     "z/Pasted image 20251006195834.png",
     "z/Pasted image 20251006195810.png",
     "z/Pasted image 20251006195803.png",
     "z/Pasted image 20251006195727.png",
-    "z/Pasted image 20251006195705.png",
-    "z/Pasted image 20251006195629.png"
+    "z/Pasted image 20251006195705.png"
   ]
 }

@@ -2,3 +2,4 @@
 [[drawn art]]
 [[digital art]]
 
+[[Painting art]]
