@@ -1,3 +1,5 @@
+[[sonny boy art style]]
+[[indie digital art]]
 
 ##
 ```
@@ -18,13 +20,10 @@ soft cinematic anime art style, digital illustration with traditional pencil tex
 mixed media art style, 2D anime character superimposed on a photorealistic background (Anime in Real Life). Subject: {} Background: A realistic photograph of {} Lighting: Dim, moody evening light, overcast weather, heavy shadows casting the character in silhouette, cool blue color temperature. Atmosphere: Urban isolation, melancholic, lo-fi aesthetic, soft focus, desaturated colors, seamless integration between 2D art and 3D environment.
 ```
 
-# Indie art
-```example
-indie anime art style, rough digital sketchbook aesthetic. Subject: A candid summer beach scene. Foreground: A close-up of a girl with a black bob haircut and blunt bangs, looking back at the viewer with a surprised, open-mouthed expression. She has large brown eyes and scribbled textured blush on her cheeks. Background: A boy with white messy hair, wearing a loose white shirt and rolled-up black pants, standing ankle-deep in the water looking away. Environment: Deep teal ocean water with thick, painterly, blobby white foam and waves crashing on the shore. The sky is bright blue with rough, painterly clouds. Technique: Loose jittery black outlines, flat coloring with hard-edged shadows, expressive brushwork, lack of smoothing, energetic and breezy atmosphere, camera: wide-angle composition.
-```
 
+
+
+# Muted paint
 ```
-indie anime art style, rough digital sketchbook aesthetic. Subject:{}. Foreground: {} Background: . Environment: {},
- Technique: Loose jittery black outlines, flat coloring with hard-edged shadows, expressive brushwork, lack of smoothing, energetic and breezy atmosphere.
-camera: {}
+contemporary anime illustration with semi-realistic minimal facial rendering, soft simplified facial features with very low contrast, pale matte skin tones, small understated nose and mouth, neutral expression, large dark eyes with minimal highlights and flat shading, no exaggerated eyelashes, no heavy lineart around facial features. Loose painterly digital brush strokes with visible texture, rough edge rendering, sketch-like paint layering. Muted monochrome color palette dominated by blacks, off-whites, and desaturated browns. Natural subdued lighting with no dramatic highlights, soft ambient shadows only. Clothing rendered with broad confident brush strokes and uneven paint density, slightly abstracted folds. Clean white or very light background with no detail. Modern illustrative anime style, understated, quiet mood, restrained emotion, high artistic confidence, minimalism over decoration.desaturated colors, low saturation, low contrast, soft grayscale bias, neutral whites, deep charcoal blacks, muted skin tones, no vibrant colors, no glossy shine
 ```

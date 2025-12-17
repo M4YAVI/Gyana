@@ -1,12 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Space",
-      "path": "zzz/Space.md"
+      "basename": "indie digital art",
+      "path": "indie digital art.md"
+    },
+    {
+      "basename": "anime art",
+      "path": "zzz/anime art.md"
+    },
+    {
+      "basename": "sonny boy art style",
+      "path": "sonny boy art style.md"
+    },
+    {
+      "basename": "artstyles",
+      "path": "zzz/artstyles.md"
+    },
+    {
+      "basename": "digital art",
+      "path": "zzz/digital art.md"
+    },
+    {
+      "basename": "drawn art",
+      "path": "zzz/drawn art.md"
+    },
+    {
+      "basename": "Image prompts",
+      "path": "zzz/Image prompts.md"
+    },
+    {
+      "basename": "index",
+      "path": "animes/index.md"
+    },
+    {
+      "basename": "sound smart",
+      "path": "zzz/sound smart.md"
+    },
+    {
+      "basename": "phrases",
+      "path": "daily life/phrases.md"
+    },
+    {
+      "basename": "index",
+      "path": "ai/index.md"
+    },
+    {
+      "basename": "Arrays & Hashing",
+      "path": "zzz/Arrays & Hashing.md"
+    },
+    {
+      "basename": "Maximum Subarray (Kadane’s Algorithm)",
+      "path": "zzz/Maximum Subarray (Kadane’s Algorithm).md"
+    },
+    {
+      "basename": "Product of Array Except Self",
+      "path": "zzz/Product of Array Except Self.md"
+    },
+    {
+      "basename": "Contains Duplicate",
+      "path": "zzz/Contains Duplicate.md"
+    },
+    {
+      "basename": "Best Time to Buy and Sell Stock",
+      "path": "zzz/Best Time to Buy and Sell Stock.md"
+    },
+    {
+      "basename": "Hashing heads up",
+      "path": "zzz/Hashing heads up.md"
+    },
+    {
+      "basename": "DSA",
+      "path": "zzz/DSA.md"
+    },
+    {
+      "basename": "index",
+      "path": "education/index.md"
+    },
+    {
+      "basename": "for education prompts",
+      "path": "zzz/for education prompts.md"
+    },
+    {
+      "basename": "Two Sum",
+      "path": "zzz/Two Sum.md"
+    },
+    {
+      "basename": "index",
+      "path": "authors/index.md"
+    },
+    {
+      "basename": "Mesopotamian Calendar",
+      "path": "zzz/Mesopotamian Calendar.md"
+    },
+    {
+      "basename": "History",
+      "path": "zzz/History.md"
+    },
+    {
+      "basename": "index",
+      "path": "knowledge/index.md"
     },
     {
       "basename": "Physics",
       "path": "zzz/Physics.md"
+    },
+    {
+      "basename": "Ancient People",
+      "path": "zzz/Ancient People.md"
+    },
+    {
+      "basename": "Early humans",
+      "path": "zzz/Early humans.md"
+    },
+    {
+      "basename": "History of science",
+      "path": "zzz/History of science.md"
+    },
+    {
+      "basename": "Space",
+      "path": "zzz/Space.md"
+    },
+    {
+      "basename": "Big Bang theory",
+      "path": "zzz/Big Bang theory.md"
     },
     {
       "basename": "waves",
@@ -69,10 +185,6 @@
       "path": "zzz/reference frames.md"
     },
     {
-      "basename": "index",
-      "path": "education/index.md"
-    },
-    {
       "basename": "Quntum computing",
       "path": "zzz/Quntum computing.md"
     },
@@ -87,118 +199,6 @@
     {
       "basename": "entanglement",
       "path": "zzz/entanglement.md"
-    },
-    {
-      "basename": "Computer Science Prerequisites",
-      "path": "zzz/Computer Science Prerequisites.md"
-    },
-    {
-      "basename": "Hardware & Error Correction",
-      "path": "zzz/Hardware & Error Correction.md"
-    },
-    {
-      "basename": "Quantum Protocols & Algorithms",
-      "path": "zzz/Quantum Protocols & Algorithms.md"
-    },
-    {
-      "basename": "The Quantum Circuit Model",
-      "path": "zzz/The Quantum Circuit Model.md"
-    },
-    {
-      "basename": "Quantum Mechanics Principles for Computing",
-      "path": "zzz/Quantum Mechanics Principles for Computing.md"
-    },
-    {
-      "basename": "Core Phenomena",
-      "path": "zzz/Core Phenomena.md"
-    },
-    {
-      "basename": "The Postulates of Quantum Mechanics",
-      "path": "zzz/The Postulates of Quantum Mechanics.md"
-    },
-    {
-      "basename": "Computational Complexity",
-      "path": "zzz/Computational Complexity.md"
-    },
-    {
-      "basename": "Classical Bits & Logic",
-      "path": "zzz/Classical Bits & Logic.md"
-    },
-    {
-      "basename": "The Mathematical Foundation",
-      "path": "zzz/The Mathematical Foundation.md"
-    },
-    {
-      "basename": "Probability & Statistics",
-      "path": "zzz/Probability & Statistics.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "zzz/Linear Algebra.md"
-    },
-    {
-      "basename": "Complex Numbers",
-      "path": "zzz/Complex Numbers.md"
-    },
-    {
-      "basename": "My lines",
-      "path": "zzz/My lines.md"
-    },
-    {
-      "basename": "2x",
-      "path": "zzz/2x.md"
-    },
-    {
-      "basename": "phrases",
-      "path": "daily life/phrases.md"
-    },
-    {
-      "basename": "real friend",
-      "path": "zzz/real friend.md"
-    },
-    {
-      "basename": "Text prompts",
-      "path": "zzz/Text prompts.md"
-    },
-    {
-      "basename": "index",
-      "path": "ai/index.md"
-    },
-    {
-      "basename": "drawn art",
-      "path": "zzz/drawn art.md"
-    },
-    {
-      "basename": "artstyles",
-      "path": "zzz/artstyles.md"
-    },
-    {
-      "basename": "Image prompts",
-      "path": "zzz/Image prompts.md"
-    },
-    {
-      "basename": "Bungo stray dogs",
-      "path": "zzz/Bungo stray dogs.md"
-    },
-    {
-      "basename": "index",
-      "path": "animes/index.md"
-    },
-    {
-      "basename": "teacherly",
-      "path": "zzz/teacherly.md"
-    },
-    {
-      "basename": "anime art",
-      "path": "zzz/anime art.md"
-    },
-    {
-      "basename": "DressF",
-      "path": "zzz/DressF.md"
-    },
-    {
-      "basename": "s-less",
-      "path": "zzz/s-less.md"
     }
   ],
   "omittedPaths": [],
