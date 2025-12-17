@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "sound",
+      "path": "zzz/sound.md"
+    },
+    {
+      "basename": "drawn art",
+      "path": "zzz/drawn art.md"
+    },
+    {
+      "basename": "Real World Science",
+      "path": "zzz/Real World Science.md"
+    },
+    {
+      "basename": "eyes",
+      "path": "zzz/eyes.md"
+    },
+    {
+      "basename": "TIR",
+      "path": "zzz/TIR.md"
+    },
+    {
+      "basename": "Rainbow",
+      "path": "zzz/Rainbow.md"
+    },
+    {
+      "basename": "index",
+      "path": "knowledge/index.md"
+    },
+    {
+      "basename": "Physics",
+      "path": "zzz/Physics.md"
+    },
+    {
+      "basename": "History of science",
+      "path": "zzz/History of science.md"
+    },
+    {
+      "basename": "Birth of physics",
+      "path": "zzz/Birth of physics.md"
+    },
+    {
+      "basename": "Ancient People",
+      "path": "zzz/Ancient People.md"
+    },
+    {
+      "basename": "timeline",
+      "path": "zzz/timeline.md"
+    },
+    {
       "basename": "indie digital art",
       "path": "zzz/indie digital art.md"
     },
@@ -39,10 +87,6 @@
     {
       "basename": "hair",
       "path": "zsds/hair.md"
-    },
-    {
-      "basename": "drawn art",
-      "path": "zzz/drawn art.md"
     },
     {
       "basename": "digital art",
@@ -121,24 +165,8 @@
       "path": "zzz/History.md"
     },
     {
-      "basename": "index",
-      "path": "knowledge/index.md"
-    },
-    {
-      "basename": "Physics",
-      "path": "zzz/Physics.md"
-    },
-    {
-      "basename": "Ancient People",
-      "path": "zzz/Ancient People.md"
-    },
-    {
       "basename": "Early humans",
       "path": "zzz/Early humans.md"
-    },
-    {
-      "basename": "History of science",
-      "path": "zzz/History of science.md"
     },
     {
       "basename": "Space",
@@ -171,34 +199,6 @@
     {
       "basename": "Electricity",
       "path": "zzz/Electricity.md"
-    },
-    {
-      "basename": "work power energy",
-      "path": "zzz/work power energy.md"
-    },
-    {
-      "basename": "Newton laws of motion",
-      "path": "zzz/Newton laws of motion.md"
-    },
-    {
-      "basename": "Conservation of Momentum",
-      "path": "zzz/Conservation of Momentum.md"
-    },
-    {
-      "basename": "momentum",
-      "path": "zzz/momentum.md"
-    },
-    {
-      "basename": "2nd law",
-      "path": "zzz/2nd law.md"
-    },
-    {
-      "basename": "action-reaction 3rd law",
-      "path": "zzz/action-reaction 3rd law.md"
-    },
-    {
-      "basename": "inertia or newton first law",
-      "path": "zzz/inertia or newton first law.md"
     }
   ],
   "omittedPaths": [],

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzz/indie digital art.md",
+                "file": "zzz/sound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indie digital art"
+              "title": "sound"
             }
           }
         ],
@@ -208,6 +208,21 @@
   },
   "active": "1fc7dc00be0462ca",
   "lastOpenFiles": [
+    "zzz/drawn art.md",
+    "zzz/sound.md",
+    "zzz/Pasted image 20251217231521.png",
+    "zzz/Real World Science.md",
+    "zzz/eyes.md",
+    "zzz/TIR.md",
+    "zzz/Rainbow.md",
+    "knowledge/index.md",
+    "zzz/Pasted image 20251217221623.png",
+    "zzz/Physics.md",
+    "zzz/History of science.md",
+    "zzz/Birth of physics.md",
+    "zzz/Ancient People.md",
+    "zzz/timeline.md",
+    "zzz/indie digital art.md",
     "zzz/anime art.md",
     "zzz/artstyles.md",
     "zzz/Painting art.md",
@@ -220,23 +235,10 @@
     "zsds/Female.md",
     "zsds/expressions.md",
     "zsds/hair.md",
-    "zzz/drawn art.md",
     "zzz/ChatGPT Image Dec 17, 2025, 08_56_36 AM.png",
     "zzz/digital art.md",
-    "zzz/indie digital art.md",
     "zzz/sonny boy art style.md",
     "zzz/Pasted image 20251217092929.png",
-    "animes/index.md",
-    "zzz/sound smart.md",
-    "daily life/phrases.md",
-    "ai/index.md",
-    "zzz/Arrays & Hashing.md",
-    "zzz/Maximum Subarray (Kadane’s Algorithm).md",
-    "zzz/Product of Array Except Self.md",
-    "zzz/Contains Duplicate.md",
-    "zzz/Best Time to Buy and Sell Stock.md",
-    "zzz/Hashing heads up.md",
-    "zzz/DSA.md",
     "education",
     "knowledge",
     "ai",
@@ -250,8 +252,6 @@
     "z/Pasted image 20251006195854.png",
     "z/Pasted image 20251006195834.png",
     "z/Pasted image 20251006195810.png",
-    "z/Pasted image 20251006195803.png",
-    "z/Pasted image 20251006195727.png",
-    "z/Pasted image 20251006195705.png"
+    "z/Pasted image 20251006195803.png"
   ]
 }
