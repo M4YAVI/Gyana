@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "sound",
-      "path": "zzz/sound.md"
+      "basename": "index",
+      "path": "movies/index.md"
+    },
+    {
+      "basename": "When You Finish Saving The World",
+      "path": "zzz/zz/When You Finish Saving The World.md"
+    },
+    {
+      "basename": "index",
+      "path": "education/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "1tech/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "knowledge/index.md"
+    },
+    {
+      "basename": "Full-document SSR - Server-side rendering",
+      "path": "zzz/Full-document SSR - Server-side rendering.md"
+    },
+    {
+      "basename": "Tanstack start",
+      "path": "zzz/Tanstack start.md"
+    },
+    {
+      "basename": "Websites",
+      "path": "zzz/Websites.md"
     },
     {
       "basename": "drawn art",
       "path": "zzz/drawn art.md"
+    },
+    {
+      "basename": "sound",
+      "path": "zzz/sound.md"
     },
     {
       "basename": "Real World Science",
@@ -23,10 +55,6 @@
     {
       "basename": "Rainbow",
       "path": "zzz/Rainbow.md"
-    },
-    {
-      "basename": "index",
-      "path": "knowledge/index.md"
     },
     {
       "basename": "Physics",
@@ -141,10 +169,6 @@
       "path": "zzz/DSA.md"
     },
     {
-      "basename": "index",
-      "path": "education/index.md"
-    },
-    {
       "basename": "for education prompts",
       "path": "zzz/for education prompts.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Big Bang theory",
       "path": "zzz/Big Bang theory.md"
-    },
-    {
-      "basename": "waves",
-      "path": "zzz/waves.md"
-    },
-    {
-      "basename": "Classical Mechanics",
-      "path": "zzz/Classical Mechanics.md"
-    },
-    {
-      "basename": "wavelets",
-      "path": "zzz/wavelets.md"
-    },
-    {
-      "basename": "Fourier analysis",
-      "path": "zzz/Fourier analysis.md"
-    },
-    {
-      "basename": "Harmonic oscillators",
-      "path": "zzz/Harmonic oscillators.md"
-    },
-    {
-      "basename": "Electricity",
-      "path": "zzz/Electricity.md"
     }
   ],
   "omittedPaths": [],

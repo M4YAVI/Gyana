@@ -1,5 +1,4 @@
 
-### Setup
 
 We meet **Evelyn**.  
 She runs a domestic violence shelter.  
