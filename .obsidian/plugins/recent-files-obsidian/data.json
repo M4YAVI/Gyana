@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Human ai",
+      "path": "zzz/Human ai.md"
+    },
+    {
+      "basename": "Image prompts",
+      "path": "zzz/Image prompts.md"
+    },
+    {
+      "basename": "artstyles",
+      "path": "zzz/artstyles.md"
+    },
+    {
+      "basename": "drawn art",
+      "path": "zzz/drawn art.md"
+    },
+    {
+      "basename": "anime art",
+      "path": "zzz/anime art.md"
+    },
+    {
+      "basename": "manga print",
+      "path": "zzz/manga print.md"
+    },
+    {
       "basename": "index",
-      "path": "movies/index.md"
+      "path": "ai/index.md"
+    },
+    {
+      "basename": "your story",
+      "path": "zzz/your story.md"
+    },
+    {
+      "basename": "Light NOvels",
+      "path": "zzz/Light NOvels.md"
+    },
+    {
+      "basename": "index",
+      "path": "phrases/index.md"
+    },
+    {
+      "basename": "novel to script format",
+      "path": "zzz/novel to script format.md"
+    },
+    {
+      "basename": "my teen romantic comedy",
+      "path": "zzz/my teen romantic comedy.md"
+    },
+    {
+      "basename": "TOne",
+      "path": "zzz/TOne.md"
+    },
+    {
+      "basename": "Baccono",
+      "path": "zzz/Baccono.md"
+    },
+    {
+      "basename": "phrases",
+      "path": "daily life/phrases.md"
+    },
+    {
+      "basename": "index",
+      "path": "omni/authors/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "entertainment/movies/index.md"
     },
     {
       "basename": "When You Finish Saving The World",
@@ -18,7 +82,7 @@
     },
     {
       "basename": "index",
-      "path": "knowledge/index.md"
+      "path": "omni/knowledge/index.md"
     },
     {
       "basename": "Full-document SSR - Server-side rendering",
@@ -31,10 +95,6 @@
     {
       "basename": "Websites",
       "path": "zzz/Websites.md"
-    },
-    {
-      "basename": "drawn art",
-      "path": "zzz/drawn art.md"
     },
     {
       "basename": "sound",
@@ -81,20 +141,8 @@
       "path": "zzz/indie digital art.md"
     },
     {
-      "basename": "anime art",
-      "path": "zzz/anime art.md"
-    },
-    {
-      "basename": "artstyles",
-      "path": "zzz/artstyles.md"
-    },
-    {
       "basename": "Painting art",
       "path": "zzz/Painting art.md"
-    },
-    {
-      "basename": "Image prompts",
-      "path": "zzz/Image prompts.md"
     },
     {
       "basename": "characteris",
@@ -126,19 +174,11 @@
     },
     {
       "basename": "index",
-      "path": "animes/index.md"
+      "path": "entertainment/animes/index.md"
     },
     {
       "basename": "sound smart",
       "path": "zzz/sound smart.md"
-    },
-    {
-      "basename": "phrases",
-      "path": "daily life/phrases.md"
-    },
-    {
-      "basename": "index",
-      "path": "ai/index.md"
     },
     {
       "basename": "Arrays & Hashing",
@@ -159,46 +199,6 @@
     {
       "basename": "Best Time to Buy and Sell Stock",
       "path": "zzz/Best Time to Buy and Sell Stock.md"
-    },
-    {
-      "basename": "Hashing heads up",
-      "path": "zzz/Hashing heads up.md"
-    },
-    {
-      "basename": "DSA",
-      "path": "zzz/DSA.md"
-    },
-    {
-      "basename": "for education prompts",
-      "path": "zzz/for education prompts.md"
-    },
-    {
-      "basename": "Two Sum",
-      "path": "zzz/Two Sum.md"
-    },
-    {
-      "basename": "index",
-      "path": "authors/index.md"
-    },
-    {
-      "basename": "Mesopotamian Calendar",
-      "path": "zzz/Mesopotamian Calendar.md"
-    },
-    {
-      "basename": "History",
-      "path": "zzz/History.md"
-    },
-    {
-      "basename": "Early humans",
-      "path": "zzz/Early humans.md"
-    },
-    {
-      "basename": "Space",
-      "path": "zzz/Space.md"
-    },
-    {
-      "basename": "Big Bang theory",
-      "path": "zzz/Big Bang theory.md"
     }
   ],
   "omittedPaths": [],

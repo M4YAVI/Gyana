@@ -3,3 +3,4 @@
 [[digital art]]
 
 [[Painting art]]
+[[manga print]]
