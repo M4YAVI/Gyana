@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "254cb651cf310f18",
+        "id": "6f8ca640c244b13a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3301d5c1d934618",
+            "id": "b7f477886ec514bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zzz/docs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "docs"
             }
           }
         ]
@@ -187,8 +191,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b95397c74dcc08d",
+  "active": "b7f477886ec514bf",
   "lastOpenFiles": [
+    "zzz/shadowing in rust.md",
+    "zzz/docs.md",
+    "zzz/variables.md",
+    "zzz/cargo.md",
+    "zzz/Intro to rust.md",
+    "zzz/Data types.md",
+    "zzz/Rust.md",
+    "0tech/full stack/index.md",
+    "zzz/countries history.md",
+    "zzz/Alfred Nobel.md",
+    "Standard oil with noble oil (usa gamble in russia).md",
+    "omni/index.md",
+    "zzz/Beyond the Biography.md",
     "0tech",
     "entertainment/animes/index.md",
     "zzz/Human ai.md",
@@ -207,19 +224,7 @@
     "entertainment/phrases/index.md",
     "zzz/novel to script format.md",
     "zzz/my teen romantic comedy.md",
-    "zzz/TOne.md",
-    "zzz/Baccono.md",
-    "entertainment/daily life/phrases.md",
-    "omni/authors/index.md",
     "entertainment/phrases",
-    "entertainment/movies/index.md",
-    "zzz/zz/When You Finish Saving The World.md",
-    "education/index.md",
-    "0tech/full stack/index.md",
-    "omni/knowledge/index.md",
-    "zzz/Full-document SSR - Server-side rendering.md",
-    "zzz/Tanstack start.md",
-    "zzz/Websites.md",
     "0tech/full stack",
     "zzz/Pasted image 20251217231521.png",
     "zzz/Pasted image 20251217221623.png",
@@ -229,7 +234,6 @@
     "zzz/Pasted image 20251217092929.png",
     "education",
     "omni/knowledge",
-    "0tech/ai",
     "z/Pasted image 20251022235507.png",
     "z/Pasted image 20251006195854.png",
     "z/Pasted image 20251006195834.png",

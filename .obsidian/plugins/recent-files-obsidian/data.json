@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "docs",
+      "path": "zzz/docs.md"
+    },
+    {
+      "basename": "shadowing in rust",
+      "path": "zzz/shadowing in rust.md"
+    },
+    {
+      "basename": "variables",
+      "path": "zzz/variables.md"
+    },
+    {
+      "basename": "cargo",
+      "path": "zzz/cargo.md"
+    },
+    {
+      "basename": "Intro to rust",
+      "path": "zzz/Intro to rust.md"
+    },
+    {
+      "basename": "Data types",
+      "path": "zzz/Data types.md"
+    },
+    {
+      "basename": "Rust",
+      "path": "zzz/Rust.md"
+    },
+    {
       "basename": "index",
       "path": "0tech/full stack/index.md"
+    },
+    {
+      "basename": "countries history",
+      "path": "zzz/countries history.md"
+    },
+    {
+      "basename": "Alfred Nobel",
+      "path": "zzz/Alfred Nobel.md"
+    },
+    {
+      "basename": "index",
+      "path": "omni/index.md"
+    },
+    {
+      "basename": "Beyond the Biography",
+      "path": "zzz/Beyond the Biography.md"
     },
     {
       "basename": "index",
@@ -155,50 +199,6 @@
     {
       "basename": "dress",
       "path": "zzz/zsds/dress.md"
-    },
-    {
-      "basename": "Female",
-      "path": "zzz/zsds/Female.md"
-    },
-    {
-      "basename": "expressions",
-      "path": "zzz/zsds/expressions.md"
-    },
-    {
-      "basename": "hair",
-      "path": "zzz/zsds/hair.md"
-    },
-    {
-      "basename": "digital art",
-      "path": "zzz/digital art.md"
-    },
-    {
-      "basename": "sonny boy art style",
-      "path": "zzz/sonny boy art style.md"
-    },
-    {
-      "basename": "sound smart",
-      "path": "zzz/sound smart.md"
-    },
-    {
-      "basename": "Arrays & Hashing",
-      "path": "zzz/Arrays & Hashing.md"
-    },
-    {
-      "basename": "Maximum Subarray (Kadane’s Algorithm)",
-      "path": "zzz/Maximum Subarray (Kadane’s Algorithm).md"
-    },
-    {
-      "basename": "Product of Array Except Self",
-      "path": "zzz/Product of Array Except Self.md"
-    },
-    {
-      "basename": "Contains Duplicate",
-      "path": "zzz/Contains Duplicate.md"
-    },
-    {
-      "basename": "Best Time to Buy and Sell Stock",
-      "path": "zzz/Best Time to Buy and Sell Stock.md"
     }
   ],
   "omittedPaths": [],
